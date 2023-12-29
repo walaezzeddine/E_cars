@@ -11,4 +11,3 @@ Retour de Voiture : Gère le processus de retour d'une voiture louée, recueille
 
 Statistiques de Location : Affiche des statistiques relatives aux locations, y compris le pourcentage de fois où chaque voiture a été louée.
 
-Utilisation
